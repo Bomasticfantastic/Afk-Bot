@@ -6,7 +6,7 @@
   },
 
   "server": {
-    "ip": "localhost",
+    "ip": "34.131.172.10",
     "port": 25565,
     "version": "1.19.3"
   },
